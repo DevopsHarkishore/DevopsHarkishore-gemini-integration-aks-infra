@@ -66,9 +66,9 @@ sqlserver = {
       project     = "aks-project"
     }
     secret_username        = "sqlserver-username"
-    secret_password        = "mssqlserver-password"
-    key_vault_name         = "testkv44802"
-    kv_resource_group_name = "harkishore-rg"
+    secret_password        = "sqlserver-password"
+    key_vault_name         = "testkv44805"
+    kv_resource_group_name = "harkishore-keyvault"
   }
 }
 
